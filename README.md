@@ -5,7 +5,7 @@ Aplicação desenvolvida no NLW Journey da Rocketseat na trilha HTML+CSS+JS.
 
 <img src="./img/preview.png" alt="Projeto">
 
-🚀 Tecnologias
+Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
